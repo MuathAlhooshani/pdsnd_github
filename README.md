@@ -7,10 +7,10 @@
 
 
 ### Description
-This code is a python code with pandas library that allows the user to explore the data of a major US bikshare company in 3 major US cities: New York, Washington and Chicago.
+This code is a python code with pandas library that allows the user to explore the data of a major US bikeshare company in 3 major US cities: New York, Washington and Chicago.
 
 ### Files used
 bikeshare.py, washington.csv, chicago.csv and new_york_city.csv.
 
 ###Credit
-credit goes to my instructor Rakan Alkheliwi for his help 
+credit goes to my instructor Rakan Alkheliwi for his help.
