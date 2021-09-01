@@ -12,4 +12,5 @@ This code is a python code with pandas library that allows the user to explore t
 ### Files used
 bikeshare.py, washington.csv, chicago.csv and new_york_city.csv.
 
-
+###Credit
+credit goes to my instructor Rakan Alkheliwi for his help 
